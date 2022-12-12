@@ -1,5 +1,5 @@
 # Projeto Web Service
-O projeto consiste em uma aplicação (CRUD) Back End de um sistema de vendas.
+O projeto consiste em uma aplicação Back End de um sistema de vendas com os metodos: GET, POST, PUT e DELETE.
 
 ## Domain Model
 ![Web 1](https://github.com/Gabriel-progf/project-springboot-jpa-1/blob/main/assets/domain_model.png)
